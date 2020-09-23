@@ -1,3 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#code {
+    color: rgba(7, 109, 74, 0.24);
+}
+
+.kofi {
+    text-decoration: underline;
+}
+
+p.kofi {
+    color: blue;
+}
+
 body {
     background-color: aqua;
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+    text-decoration: underline;
+}
+
+/* Starting about us page */
+
+/* Author: Emmanuel Ntiamoh 
+   Date: 23/09/2020
+   Company: IIPGH
+*/
+
+/* insert background color */
+body {
+    background-image: url("backg.jpeg");
+    /*
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+    
+*/
+    background-repeat: no-repeat;
+    background-position:
 }
